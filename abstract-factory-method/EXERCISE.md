@@ -1,5 +1,3 @@
-Got it — from now on, I’ll use **backend-focused, Python-oriented** scenarios only.
-
 **Scenario:** Build a multi-cloud object-storage service for a document-management platform. The system initially stores documents in AWS S3, but now must support Google Cloud Storage and Azure Blob Storage. Each cloud provider requires its own compatible storage client, signed-URL generator, and metadata store.
 
 ### Requirements
