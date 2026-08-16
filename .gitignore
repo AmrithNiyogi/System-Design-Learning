@@ -1,0 +1,7 @@
+outputs/
+.spreadsheet-build/
+.cursor/
+.claude/
+.venv/
+.env*
+__pycache__/
